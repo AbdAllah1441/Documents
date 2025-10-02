@@ -21,3 +21,6 @@
 
 8. Prayer Times React Project | Tarmeez Academy:
    https://youtu.be/wikEEKvyPug
+   
+9. Build an AI Voice Dental Assistant with Next.js & Postgres - Full SaaS Tutorial:
+   https://youtu.be/MhGV5TekJ8Y?si=TmRtltedbNDOj7_n
