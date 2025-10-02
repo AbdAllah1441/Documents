@@ -15,3 +15,6 @@
 
 7. Backend Full Course | NodeJS ExpressJS PostgreSQL Prisma & Docker:
    https://youtu.be/9BD9eK9VqXA
+
+8. React Native Tutorial for Beginners:
+   https://youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1&si=cioSdm_kfH57Bdxi
